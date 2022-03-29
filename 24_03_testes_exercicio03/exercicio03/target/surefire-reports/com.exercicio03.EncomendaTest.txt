@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.exercicio03.EncomendaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.415 s <<< FAILURE! - in com.exercicio03.EncomendaTest
+com.exercicio03.EncomendaTest.testeCom23barras  Time elapsed: 0.256 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: [I@16fe9c29<[3, 4]> but was: [I@3e9803c2<[3, 4]>
+	at com.exercicio03.EncomendaTest.testeCom23barras(EncomendaTest.java:31)
+
